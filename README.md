@@ -1,6 +1,6 @@
 # Welcome to GitHub
 
-Check if push works tho Welcome to GitHub—where millions of developers work together on software. Ready to get started? Let’s learn how this all works by building and publishing your first GitHub Pages website!
+Check if push works tho yooo Welcome to GitHub—where millions of developers work together on software. Ready to get started? Let’s learn how this all works by building and publishing your first GitHub Pages website!
 
 ## Repositories
 
